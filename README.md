@@ -9,7 +9,7 @@ A professional security dashboard that simulates TLS/cryptographic scanning of U
 - 📋 Scan history table with all past results
 - 📥 CSV report download
 - 🎨 Dark SOC-grade security theme
-
+  
 ## Requirements
 
 - **Node.js** v18 or higher — [Download here](https://nodejs.org/)
